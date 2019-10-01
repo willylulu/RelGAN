@@ -1,6 +1,6 @@
 #   RelGAN (ICCV 2019)
 
-**Keras** implementation of [**RelGAN: Multi-Domain Image-to-Image Translation via Relative Attributes**](https://arxiv.org/abs/1908.07269)
+**(Official) Keras** implementation of [**RelGAN: Multi-Domain Image-to-Image Translation via Relative Attributes**](https://arxiv.org/abs/1908.07269)
 
 The paper is accepted to ICCV 2019. We also have the PyTorch version [here](https://github.com/elvisyjlin/RelGAN-PyTorch).
 
